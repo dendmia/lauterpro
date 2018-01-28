@@ -1,5 +1,16 @@
+$Mypink: #e59b90;
+$Mywhite: #f8f5f4;
+
 body {
 	font-family: 'PT Sans Caption', sans-serif;
+}
+.header-contacts{
+	h1{
+		color: $Mywhite;
+	}
+	a{
+		color: $Mywhite;
+	}
 }
 
 .container-fluid {
@@ -26,4 +37,8 @@ nav {
 
 .form-item {
 	width: 210px;
+}
+
+.bg-pink {
+	background-color: $Mypink;
 }
