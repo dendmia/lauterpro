@@ -1,0 +1,10 @@
+$ cat .gitignore
+/assets/.bowerrc
+/assets/build/
+/assets/src/bower_components/
+/bower.json
+/bower_components/
+/gulpfile.js
+/node_modules/
+/package-lock.json
+/assets/src/img/
